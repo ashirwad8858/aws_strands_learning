@@ -1,0 +1,22 @@
+https://strandsagents.com/0.1.x/documentation/docs/user-guide/quickstart/
+
+The strands-agents-tools package provides many example tools that give your agents powerful abilities. The strands-agents-builder package provides an agent that helps you to build your own Strands agents and tools
+pip install strands-agents
+pip install strands-agents-tools strands-agents-builder
+pip install 'strands-agents[openai]'
+pip install 'strands-agents[ollama]'
+
+Tools list:
+https://github.com/strands-agents/tools
+
+
+videos
+https://www.youtube.com/watch?v=Ausm87d5Ry8
+https://www.youtube.com/watch?v=bHSbjCZZFjE
+https://www.youtube.com/watch?v=TD2ihEBkdkY&list=PL5bUlblGfe0KzPNUDcOqVYLVty9REegHK&index=4
+
+https://www.youtube.com/watch?v=Q3NreEAdKMc
+
+
+https://www.3blue1brown.com/
+Manim - viedo generaition tool
