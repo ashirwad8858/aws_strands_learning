@@ -1,0 +1,15 @@
+[2025-07-27 10:15:42] INFO  GET /api/users 200 OK - User list fetched successfully
+[2025-07-27 10:15:45] ERROR GET /api/login 401 Unauthorized - Invalid token provided
+[2025-07-27 10:15:47] INFO  POST /api/register 201 Created - New user registered
+[2025-07-27 10:16:02] WARN  GET /api/products/12 404 Not Found - Product does not exist
+[2025-07-27 10:16:15] INFO  PUT /api/cart/update 200 OK - Cart updated
+[2025-07-27 10:16:30] ERROR POST /api/payment 500 Internal Server Error - Payment gateway timeout
+[2025-07-27 10:16:52] INFO  GET /api/reports 200 OK - Reports loaded
+[2025-07-27 10:17:03] ERROR GET /api/admin 403 Forbidden - Access denied for non-admin user
+[2025-07-27 10:17:20] WARN  GET /api/users/999 404 Not Found - No user found with ID 999
+[2025-07-27 10:17:35] ERROR GET /api/orders 400 Bad Request - Missing required parameter 'date'
+[2025-07-27 10:18:01] INFO  DELETE /api/cart 204 No Content - Cart cleared
+[2025-07-27 10:18:15] ERROR GET /api/inventory 502 Bad Gateway - Upstream service failed
+[2025-07-27 10:18:45] INFO  PATCH /api/profile 200 OK - Profile updated
+[2025-07-27 10:19:10] ERROR POST /api/checkout 500 Internal Server Error - Null pointer exception
+[2025-07-27 10:19:35] WARN  GET /api/settings 403 Forbidden - User does not have permission
